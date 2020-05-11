@@ -8,3 +8,6 @@ pip install keras
 pip install tensorflow
 pip install nltk
 ```
+Then run train file to init the training
+
+Then run gui to have a chat
